@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DZ06_FileReadParallel/.vs/DZ06_FileReadParallel
+/DZ06_FileReadParallel/DZ06_FileReadParallel/obj
