@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DZ06_FileReadParallel/1.0.0": {
+        "runtime": {
+          "DZ06_FileReadParallel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DZ06_FileReadParallel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
